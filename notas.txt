@@ -1,0 +1,26 @@
+Para guardar contrl + s, para link: anchor
+id: SIrve para diferenciar parrafos
+link: rutas relativas
+
+revisar etiqueta ul y ol
+<ul>
+
+<li type="circle">Esto es un tipo de punto.</li>
+
+<li type="square">Este es otro.</li>
+
+<li type="disc">Y este es otro diferente.</li>
+
+</ul>
+
+<ol>
+
+<li value="20">Este será el número 20.</li>
+
+<li>Este será el 21.</li>
+
+<li>Este será el 22. Y así sucesivamente.</li>
+
+</ol>
+_________________________________________
+BOOTSTRAAP (libreria)
